@@ -1,0 +1,4 @@
+<map id="GenerationProcess::AddMeasurement" name="GenerationProcess::AddMeasurement">
+<area shape="rect" id="node2" href="$class_statistics_manager.html#a29d42ef920f59c58e6324a06a64b10f9" title="Static method to obtain the singleton. " alt="" coords="207,5,356,46"/>
+<area shape="rect" id="node3" href="$class_statistics_manager.html#a0a95a93e43f97fcbe16900a4993ee8d9" title="This function is called to notify a measurement is generated. " alt="" coords="198,70,365,111"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="ApplicationConfigureHelper::Configure" name="ApplicationConfigureHelper::Configure">
+<area shape="rect" id="node2" href="$class_deadline_configure_helper.html#ace6ae581e11565f1c933abc24739c347" title="Function to configure the deadline process from a file stream. " alt="" coords="245,5,417,46"/>
+<area shape="rect" id="node3" href="$class_generation_configure_helper.html#a1fbcce851b7cddd1e36d2e61c238487d" title="This function configures a new generation process from a file stream. " alt="" coords="238,70,423,111"/>
+<area shape="rect" id="node4" href="$class_gain_configure_helper.html#aefd972a9aa845e9996daf123e9c97210" title="This function configures a new gain function from a file stream. " alt="" coords="257,135,404,177"/>
+<area shape="rect" id="node5" href="$class_transmission_manager.html#a04d40e538e82262deadc30935129774d" title="Installs a new application. " alt="" coords="254,201,407,242"/>
+</map>

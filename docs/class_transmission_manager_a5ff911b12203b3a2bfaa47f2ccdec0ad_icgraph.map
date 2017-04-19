@@ -1,0 +1,14 @@
+<map id="TransmissionManager::CreatePacketFromMeasurements" name="TransmissionManager::CreatePacketFromMeasurements">
+<area shape="rect" id="node2" href="$class_transmission_manager.html#a91ad12855818f883f68e04a4858e6273" title="Sends all measurements in the aggregation queue. " alt="" coords="283,169,447,210"/>
+<area shape="rect" id="node3" href="$class_a_d_a_transmission_manager.html#ade55deca3cd9e67ca4b4898b2889603e" title="Transmits all measurements in the aggregation queue. " alt="" coords="513,5,697,46"/>
+<area shape="rect" id="node4" href="$class_cascading_transmission_manager.html#a8fdb2cb7c0d841683752f30f00050c3f" title="Transmits all measurements in the aggregation queue. " alt="" coords="497,70,714,111"/>
+<area shape="rect" id="node6" href="$class_five_g_transmission_manager.html#ad76bd1f4edea71bd833f2600bdd4b436" title="Transmits all measurements in the aggregation queue. " alt="" coords="511,135,700,177"/>
+<area shape="rect" id="node8" href="$class_fixed_transmission_manager.html#a66de358578a557233d526099865d1ce6" title="Transmits all measurements aggregated. " alt="" coords="512,201,699,242"/>
+<area shape="rect" id="node10" href="$class_multihop_transmission_manager.html#abbcd30d768c45fe71f44e6e42b8b9c47" title="Transmits all measurements in the aggregation queue. " alt="" coords="503,266,707,307"/>
+<area shape="rect" id="node12" href="$class_optimal_transmission_manager.html#a5f4c44f6b00f2dd5455ab4b64503cbc2" title="Transmits all measurements in the aggregation queue. " alt="" coords="505,331,705,373"/>
+<area shape="rect" id="node5" href="$class_cascading_transmission_manager.html#ae6466a3e6d6b20448e2fd2c630d878e3" title="Starts the applications. " alt="" coords="763,70,981,111"/>
+<area shape="rect" id="node7" href="$class_five_g_transmission_manager.html#a2108c6935995fbb0fbaa9a6fad31cb10" title="Starts the applications and computes the optimal aggergation time. " alt="" coords="777,135,967,177"/>
+<area shape="rect" id="node9" href="$class_fixed_transmission_manager.html#ad1c1e75ae0cd7b775e7acf1a11d3622b" title="Starts all applications and aggregation. " alt="" coords="779,201,965,242"/>
+<area shape="rect" id="node11" href="$class_multihop_transmission_manager.html#ac9665d718c96a768e5c9c55be8046c2f" title="Starts the applications and computes the optimal aggergation time. " alt="" coords="770,266,974,307"/>
+<area shape="rect" id="node13" href="$class_optimal_transmission_manager.html#a4e54ae4493879e955953f8dd9f354fb3" title="Starts all applications and calculates the optimal transmission time. " alt="" coords="772,331,972,373"/>
+</map>

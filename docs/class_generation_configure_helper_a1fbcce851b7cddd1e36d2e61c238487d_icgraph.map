@@ -1,0 +1,6 @@
+<map id="GenerationConfigureHelper::Configure" name="GenerationConfigureHelper::Configure">
+<area shape="rect" id="node2" href="$class_application_configure_helper.html#a5a6fe7e5876e307c26523b2c98cb2986" title="Configures the given transmission manager using the configuration file. " alt="" coords="240,70,424,111"/>
+<area shape="rect" id="node3" href="$class_a_d_a_transmission_manager.html#a3f5e279d615dccb9b7b6eea526f1af69" title="Reads the configuration from &quot;cascTM.txt&quot; file. " alt="" coords="491,5,672,46"/>
+<area shape="rect" id="node4" href="$class_cascading_transmission_manager.html#a57bad272d7a53d2a147b8fdad6cb6733" title="Reads the configuration from &quot;cascTM.txt&quot; file. " alt="" coords="473,70,690,111"/>
+<area shape="rect" id="node5" href="$class_fixed_transmission_manager.html#a7b1cf3cf7159f92e494e51b18960ace8" title="Reads the configuration from &quot;fixedTM.txt&quot;. " alt="" coords="488,135,675,177"/>
+</map>

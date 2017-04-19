@@ -1,0 +1,8 @@
+<map id="GainFunction" name="GainFunction">
+<area shape="rect" id="node3" href="$class_congestion_gain_function.html" title="Implements the Congestion minimization gain function. " alt="" coords="367,5,537,32"/>
+<area shape="rect" id="node4" href="$class_energy_gain_function.html" title="Implements the Energy consumption minimization gain function. " alt="" coords="380,56,524,83"/>
+<area shape="rect" id="node5" href="$class_information_freshness_gain_function.html" title="Implements the Information Freshness maximization gain function. " alt="" coords="363,107,541,149"/>
+<area shape="rect" id="node6" href="$class_no_gain_function.html" title="Provides unity gain function. " alt="" coords="393,173,511,200"/>
+<area shape="rect" id="node7" href="$class_success_gain_function.html" title="Implements the expiration minimization gain function. " alt="" coords="376,224,528,251"/>
+<area shape="rect" id="node8" href="$class_success_uniform_gain_function.html" title="Implements the expiration minimization gain function for a uniform generation. " alt="" coords="353,275,551,301"/>
+</map>

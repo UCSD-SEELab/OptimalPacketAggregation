@@ -1,0 +1,4 @@
+<map id="Measurement::GetDelay" name="Measurement::GetDelay">
+<area shape="rect" id="node2" href="$class_measurement.html#aa6ffc28f99c5ed1cf84c17463a7bf31e" title="Checks whether the measurement is expired or not. " alt="" coords="235,5,402,32"/>
+<area shape="rect" id="node3" href="$class_measurement.html#abc15bd1391524c0ba9028ac88b338957" title="Returns the freshness of the measurement. " alt="" coords="221,56,416,83"/>
+</map>

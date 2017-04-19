@@ -1,0 +1,4 @@
+<map id="DeadlineProcess" name="DeadlineProcess">
+<area shape="rect" id="node3" href="$class_constant_deadline_process.html" title="Constant deadline implementation. " alt="" coords="5,171,181,197"/>
+<area shape="rect" id="node4" href="$class_uniform_deadline_process.html" title="This class implements a Uniform random value deadline process. " alt="" coords="206,171,375,197"/>
+</map>

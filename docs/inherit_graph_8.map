@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$class_sink_manager.html" title="This class manages the Sink Node to receive the measurements and process them for statistics..." alt="" coords="142,81,242,108"/>
+<area shape="rect" id="node3" href="$class_transmission_manager.html" title="Base Transmission Manager class defining all communication related functionalities. " alt="" coords="115,132,269,159"/>
+<area shape="rect" id="node4" href="$class_a_d_a_transmission_manager.html" title="Implements the ADA transmission manager implementation. " alt="" coords="336,5,517,32"/>
+<area shape="rect" id="node5" href="$class_cascading_transmission_manager.html" title="Implements the cascading transmission manager implementation that takes into account the hop distance..." alt="" coords="318,56,535,83"/>
+<area shape="rect" id="node6" href="$class_five_g_transmission_manager.html" title="Implements the 5G optimal transmission manager algorithm that takes into account the congestion level..." alt="" coords="332,107,521,133"/>
+<area shape="rect" id="node7" href="$class_fixed_transmission_manager.html" title="Implements the Fixed period transmission manager. " alt="" coords="333,157,520,184"/>
+<area shape="rect" id="node8" href="$class_multihop_transmission_manager.html" title="Implements the Multi Hop Optimal transmission manager algorithm by using the relaying delay based gai..." alt="" coords="325,208,529,235"/>
+<area shape="rect" id="node9" href="$class_optimal_transmission_manager.html" title="Implements the Optimal single hop Transmission Manager algorithm. " alt="" coords="327,259,527,285"/>
+</map>

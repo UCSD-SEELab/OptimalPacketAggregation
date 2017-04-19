@@ -1,0 +1,5 @@
+<map id="GenerationProcess" name="GenerationProcess">
+<area shape="rect" id="node3" href="$class_constant_generation_process.html" title="Implements a constant rate generation process. " alt="" coords="5,171,195,197"/>
+<area shape="rect" id="node4" href="$class_intermittent_generation_process.html" title="Implements an Intermittent generation process. " alt="" coords="219,171,421,197"/>
+<area shape="rect" id="node5" href="$class_poisson_generation_process.html" title="Implements a Poisson distributed generation process. " alt="" coords="445,171,629,197"/>
+</map>
